@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Enasis Network Xfce Pink Numix
-Comment=Pink theme generated using Oomox and Numix
+Name=theme.new
+Comment=A partially sexual act; when a female (of any species; mostly humanoids) rubs the ears/lobes of a male Ferengi, creating sensual emotions and chemical reactions in the male (and sometimes in the female).
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=enasisnetwork-xfce-theme-pink
-GtkTheme=enasisnetwork-xfce-theme-pink
-IconTheme=enasisnetwork-xfce-theme-pink
-MetacityTheme=enasisnetwork-xfce-theme-pink
+Name=theme.new
+GtkTheme=theme.new
+IconTheme=theme.new
+MetacityTheme=theme.new
